@@ -10,6 +10,12 @@ I'm also the founder of **Sidemed**, a healthtech startup focused on making pers
 
 I enjoy experimenting with new technologies, building side projects, and exploring opportunities where product, technology, and business meet.
 
+## Products I've built
+
+1. **Prospector**: A B2B prospecting and CRM platform that automates lead discovery, outreach, and follow-ups with AI.
+2. **Minha Companhia**: A platform connecting families with professionals who accompany older adults to appointments and everyday activities.
+3. **Sidemed**: A health app that organizes personal medical information and makes it easier to access care across borders.
+
 ## Interests & Focus 🧠
 
 - Generative AI & LLMs
