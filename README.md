@@ -12,7 +12,7 @@ I enjoy experimenting with new technologies, building side projects, and explori
 
 ## Products I've built
 
-1. **[Prospector](https://prospector.adscendo.pro/)**: A B2B prospecting and CRM platform that automates lead discovery, outreach, and follow-ups with AI.
+1. **[Prospector](https://prospector.adscendo.pro/)**: A B2B prospecting platform where AI finds potential customers, initiates outreach, and follows up automatically.
 2. **[Minha Companhia](https://minhacompanhia.com.br/)**: A platform connecting families with professionals who accompany older adults to appointments and everyday activities.
 3. **[Sidemed](https://www.sidemed.com.br/app)**: A health app that organizes personal medical information and makes it easier to access care across borders.
 
