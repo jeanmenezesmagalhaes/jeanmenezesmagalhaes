@@ -9,3 +9,7 @@ Currently, I'm exploring how Artificial Intelligence is changing the way we buil
 I'm also the founder of **Sidemed**, a healthtech startup focused on making personal health information accessible across borders.
 
 I enjoy experimenting with new technologies, building side projects, and exploring opportunities where product, technology, and business meet.
+
+## Let's connect
+
+Follow my latest posts on [LinkedIn](https://www.linkedin.com/in/jean-magalhaes/) and explore my portfolio at [Adscendo](https://adscendo.pro/).
