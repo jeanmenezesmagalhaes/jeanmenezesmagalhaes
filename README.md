@@ -10,6 +10,16 @@ I'm also the founder of **Sidemed**, a healthtech startup focused on making pers
 
 I enjoy experimenting with new technologies, building side projects, and exploring opportunities where product, technology, and business meet.
 
+## Interests & Focus 🧠
+
+- Generative AI & LLMs
+- AI Product Management
+- AI Agents & Workflow Automation
+- Product Discovery & Strategy
+- Rapid Prototyping & MVP Development
+- Healthtech & Cross-border Health Information
+- Entrepreneurship & Business Models
+
 ## Let's connect
 
 Follow my latest posts on [LinkedIn](https://www.linkedin.com/in/jean-magalhaes/) and explore my portfolio at [Adscendo](https://adscendo.pro/).
